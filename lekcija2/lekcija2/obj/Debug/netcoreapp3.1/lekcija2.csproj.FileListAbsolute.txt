@@ -1,0 +1,14 @@
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\bin\Debug\netcoreapp3.1\lekcija2.exe
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\bin\Debug\netcoreapp3.1\lekcija2.deps.json
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\bin\Debug\netcoreapp3.1\lekcija2.runtimeconfig.json
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\bin\Debug\netcoreapp3.1\lekcija2.runtimeconfig.dev.json
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\bin\Debug\netcoreapp3.1\lekcija2.dll
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\bin\Debug\netcoreapp3.1\lekcija2.pdb
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\obj\Debug\netcoreapp3.1\lekcija2.csproj.AssemblyReference.cache
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\obj\Debug\netcoreapp3.1\lekcija2.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\obj\Debug\netcoreapp3.1\lekcija2.AssemblyInfoInputs.cache
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\obj\Debug\netcoreapp3.1\lekcija2.AssemblyInfo.cs
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\obj\Debug\netcoreapp3.1\lekcija2.csproj.CoreCompileInputs.cache
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\obj\Debug\netcoreapp3.1\lekcija2.dll
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\obj\Debug\netcoreapp3.1\lekcija2.pdb
+E:\c# lekcijas\lekcija2\lekcija2\lekcija2\obj\Debug\netcoreapp3.1\lekcija2.genruntimeconfig.cache
